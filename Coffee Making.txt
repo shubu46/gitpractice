@@ -2,3 +2,4 @@ Requirements:
 		Coffee Powder
 		Milk
 		Sugar
+		Cup
